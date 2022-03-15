@@ -1,6 +1,4 @@
-import { useState } from "react"
-import { Tweet } from "./components/Tweet"
-import { AppRoutes } from "./Routes"
+import { AppRoutes } from "./routes/Routes"
 
 function App() {
 
